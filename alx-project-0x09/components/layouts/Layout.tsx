@@ -1,4 +1,4 @@
-import { ReactComponentProps } from "@/interface";
+import { ReactComponentProps } from "@/interfaces";
 import Footer from "./Footer"
 import Header from "./Header"
 
